@@ -6,9 +6,13 @@ export const getCustomerInformation = async () => {
   
   
 };
+<<<<<<< HEAD
 
 /* get customer information */
 
+=======
+//kadir ersoy er
+>>>>>>> testmaster
 export const getCustomerInformation = async () => {
   var result = await fetch("");
   var json = await result.json();
